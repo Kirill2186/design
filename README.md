@@ -3,5 +3,7 @@
 <div>
 <li> <a href="https://docs.google.com/spreadsheets/d/1kpzis54cxwJu0AIoPfMOoamRYaFZb4-pWEXE7T-1xJo/edit?usp=drive_link">Эквивалентное разбиение и анализ граничных значений</a> </li>
 
+<li> <a href="https://docs.google.com/spreadsheets/d/1nd-eTJCVhIeA_B119OrUrYry_GN4hJB0Io-z_y4-fng/edit?usp=drive_link">Тестирование фильтрации и сортировки c помощью "Попарного Тестирования" </a> </li>
+
 </div>
 
